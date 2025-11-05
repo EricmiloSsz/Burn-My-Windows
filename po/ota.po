@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: burn-my-windows\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-17 20:23+0100\n"
-"PO-Revision-Date: 2025-10-22 22:02+0000\n"
+"PO-Revision-Date: 2025-11-06 20:51+0000\n"
 "Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
 "Language-Team: Turkish (Ottoman) <https://hosted.weblate.org/projects/"
 "burn-my-windows/core/ota/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: src/effects/Apparition.js:80
 msgid "Apparition"
@@ -81,15 +81,15 @@ msgstr "سوزولمە"
 
 #: src/effects/Glitch.js:80
 msgid "Glitch"
-msgstr ""
+msgstr "قصور"
 
 #: src/effects/Hexagon.js:83
 msgid "Hexagon"
-msgstr ""
+msgstr "آلتیگن"
 
 #: src/effects/Incinerate.js:126
 msgid "Incinerate"
-msgstr ""
+msgstr "یانمە"
 
 #: src/effects/Matrix.js:109
 msgid "Matrix"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: src/effects/Mushroom.js:124
 msgid "Mushroom"
-msgstr ""
+msgstr "منطار"
 
 #: src/effects/Mushroom.js:204
 msgid "8Bit Plumber"
@@ -133,7 +133,7 @@ msgstr ""
 
 #: src/effects/Pixelate.js:74
 msgid "Pixelate"
-msgstr ""
+msgstr "پیكسللشتیرمە"
 
 #: src/effects/PixelWheel.js:74
 msgid "Pixel Wheel"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: src/effects/Portal.js:82
 msgid "Portal"
-msgstr ""
+msgstr "پورتال"
 
 #: src/effects/RGBWarp.js:77
 msgid "RGB Warp"
@@ -173,7 +173,7 @@ msgstr ""
 
 #: src/effects/Wisps.js:85
 msgid "Wisps"
-msgstr ""
+msgstr "سحر"
 
 #: prefs.js:256
 msgid "Preview this effect"
@@ -199,11 +199,11 @@ msgstr ""
 
 #: prefs.js:520
 msgid "Cancel"
-msgstr ""
+msgstr "ایپتال"
 
 #: prefs.js:525
 msgid "Delete"
-msgstr ""
+msgstr "سیل"
 
 #: prefs.js:757 resources/ui/adw/prefs.ui:103
 msgid "Opening Windows"
@@ -289,7 +289,7 @@ msgstr ""
 
 #: resources/ui/common/menus.ui:31
 msgid "Donate"
-msgstr ""
+msgstr "باغیش"
 
 #: resources/ui/common/menus.ui:50
 msgid "Report a Bug"
@@ -301,7 +301,7 @@ msgstr ""
 
 #: resources/ui/common/menus.ui:58
 msgid "Translate"
-msgstr ""
+msgstr "چویر"
 
 #: resources/ui/common/menus.ui:64
 msgid "Open Effect-Profile Directory"
@@ -400,11 +400,11 @@ msgstr ""
 #: resources/ui/adw/hexagon.ui:47 resources/ui/adw/fire.ui:63
 #: resources/ui/adw/snap.ui:47 resources/ui/adw/energize-a.ui:47
 msgid "Scale"
-msgstr ""
+msgstr "اولچك"
 
 #: resources/ui/adw/broken-glass.ui:81
 msgid "Gravity"
-msgstr ""
+msgstr "یر چكیمی"
 
 #: resources/ui/adw/broken-glass.ui:114
 msgid "Blow Force"
@@ -422,12 +422,12 @@ msgstr ""
 
 #: resources/ui/adw/tv-glitch.ui:80 resources/ui/adw/glitch.ui:80
 msgid "Strength"
-msgstr ""
+msgstr "گوچ"
 
 #: resources/ui/adw/tv-glitch.ui:113 resources/ui/adw/glitch.ui:113
 #: resources/ui/adw/aura-glow.ui:103 resources/ui/adw/fire.ui:96
 msgid "Speed"
-msgstr ""
+msgstr "خیز"
 
 #: resources/ui/adw/tv-glitch.ui:146 resources/ui/adw/glitch.ui:146
 #: resources/ui/adw/wisps.ui:80 resources/ui/adw/energize-b.ui:81
@@ -435,11 +435,11 @@ msgstr ""
 #: resources/ui/adw/snap.ui:80 resources/ui/adw/energize-a.ui:80
 #: resources/ui/adw/tv.ui:47
 msgid "Color"
-msgstr ""
+msgstr "رنگ"
 
 #: resources/ui/adw/matrix.ui:80 resources/ui/adw/apparition.ui:48
 msgid "Randomness"
-msgstr ""
+msgstr "راست‌گلەلك"
 
 #: resources/ui/adw/matrix.ui:113
 msgid "Vertical Overshooting"
@@ -468,7 +468,7 @@ msgstr ""
 
 #: resources/ui/adw/rgbwarp.ui:55
 msgid "Brightness"
-msgstr ""
+msgstr "پارلاقلق"
 
 #: resources/ui/adw/rgbwarp.ui:93
 msgid "Red Speed"
@@ -512,7 +512,7 @@ msgstr ""
 
 #: resources/ui/adw/aura-glow.ui:136
 msgid "Saturation"
-msgstr ""
+msgstr "دویغونلق"
 
 #: resources/ui/adw/aura-glow.ui:169
 msgid "Edge Size"
@@ -532,15 +532,15 @@ msgstr ""
 
 #: resources/ui/adw/glide.ui:80
 msgid "Squish"
-msgstr ""
+msgstr "ازمك"
 
 #: resources/ui/adw/glide.ui:113
 msgid "Tilt"
-msgstr ""
+msgstr "اگیم"
 
 #: resources/ui/adw/glide.ui:146
 msgid "Shift"
-msgstr ""
+msgstr "قایمە"
 
 #: resources/ui/adw/apparition.ui:81
 msgid "Twirl Intensity"
@@ -560,15 +560,15 @@ msgstr ""
 
 #: resources/ui/adw/portal.ui:80
 msgid "Whirling"
-msgstr ""
+msgstr "دونمە"
 
 #: resources/ui/adw/portal.ui:113
 msgid "Details"
-msgstr ""
+msgstr "آیریندیلر"
 
 #: resources/ui/adw/incinerate.ui:80
 msgid "Turbulence"
-msgstr ""
+msgstr "توربولانس"
 
 #: resources/ui/adw/incinerate.ui:113
 msgid "Start at Pointer"
@@ -600,7 +600,7 @@ msgstr ""
 
 #: resources/ui/adw/fire.ui:14
 msgid "Presets"
-msgstr ""
+msgstr "شابلون"
 
 #: resources/ui/adw/fire.ui:19 resources/ui/adw/mushroom.ui:61
 msgid "Choose a Preset"
@@ -616,7 +616,7 @@ msgstr ""
 
 #: resources/ui/adw/fire.ui:152
 msgid "Gradient"
-msgstr ""
+msgstr "غرادیان"
 
 #: resources/ui/adw/team-rocket.ui:54
 msgid "Animation Split"
@@ -656,7 +656,7 @@ msgstr ""
 
 #: resources/ui/adw/prefs.ui:70
 msgid "Application"
-msgstr ""
+msgstr "اویغولامە"
 
 #: resources/ui/adw/prefs.ui:81 resources/ui/adw/prefs.ui:102
 #: resources/ui/adw/prefs.ui:117 resources/ui/adw/prefs.ui:132
