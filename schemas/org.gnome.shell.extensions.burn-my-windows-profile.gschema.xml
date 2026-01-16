@@ -2,7 +2,7 @@
 
 <!--
 SPDX-FileCopyrightText: Simon Schneegans <code@simonschneegans.de>
-SPDX-License-Identifier: CC0-1.0
+SPDX-License-Identifier: CC0-1.0a
 -->
 
 <schemalist>
@@ -1112,6 +1112,35 @@ SPDX-License-Identifier: CC0-1.0
       <summary>Sparkle Size</summary>
       <description>Sparkle Size</description>
     </key>
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!-- Cutcut Transition Effect Options                                               -->
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+<key name="cutcut-transition-enable-effect" type="b">
+  <default>false</default>
+  <summary>Cutcut Transition Enable Effect</summary>
+  <description>Use the Cutcut Transition effect.</description>
+</key>
+
+<key name="cutcut-transition-animation-time" type="i">
+  <default>1200</default>
+  <summary>Cutcut Transition Animation Time</summary>
+  <description>The duration of the Cutcut Transition animation.</description>
+</key>
+
+<key name="cutcut-transition-rows" type="i">
+  <default>5</default>
+  <summary>Cutcut Transition Rows</summary>
+  <description>Number of rows in the spritesheet.</description>
+</key>
+
+<key name="cutcut-transition-cols" type="i">
+  <default>5</default>
+  <summary>Cutcut Transition Columns</summary>
+  <description>Number of columns in the spritesheet.</description>
+</key>
+
 
 
   </schema>
