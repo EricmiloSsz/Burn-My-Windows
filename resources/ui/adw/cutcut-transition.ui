@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<interface domain="burn-my-windows">
+
+  <!-- Animation Time -->
+  <object class="GtkAdjustment" id="cutcut-transition-animation-time">
+    <property name="lower">100</property>
+    <property name="upper">3000</property>
+    <property name="step-increment">50</property>
+  </object>
+
+  <!-- Rows -->
+  <object class="GtkAdjustment" id="cutcut-transition-rows">
+    <property name="lower">1</property>
+    <property name="upper">10</property>
+    <property name="step-increment">1</property>
+  </object>
+
+  <!-- Columns -->
+  <object class="GtkAdjustment" id="cutcut-transition-cols">
+    <property name="lower">1</property>
+    <property name="upper">10</property>
+    <property name="step-increment">1</property>
+  </object>
+
+  <object class="AdwExpanderRow" id="cutcut-transition-prefs">
+    <property name="title" translatable="yes">Cutcut Transition</property>
+
+    <child>
+      <object class="AdwActionRow">
+        <property name="title" translatable="yes">Animation Time (ms)</property>
+        <child>
+          <object class="GtkScale">
+            <property name="adjustment">cutcut-transition-animation-time</property>
+            <property name="digits">0</property>
+          </object>
+        </child>
+      </object>
+    </child>
+
+    <child>
+      <object class="AdwActionRow">
+        <property name="title" translatable="yes">Rows</property>
+        <child>
+          <object class="GtkSpinButton">
+            <property name="adjustment">cutcut-transition-rows</property>
+          </object>
+        </child>
+      </object>
+    </child>
+
+    <child>
+      <object class="AdwActionRow">
+        <property name="title" translatable="yes">Columns</property>
+        <child>
+          <object class="GtkSpinButton">
+            <property name="adjustment">cutcut-transition-cols</property>
+          </object>
+        </child>
+      </object>
+    </child>
+
+  </object>
+
+</interface>
+
