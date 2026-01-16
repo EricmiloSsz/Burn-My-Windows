@@ -50,7 +50,7 @@ import TVEffect from './src/effects/TVEffect.js';
 import TVGlitch from './src/effects/TVGlitch.js';
 import Wisps from './src/effects/Wisps.js';
 
-import CutCutTransition from './cutcut-transition.js';
+import CutCutTransition from './src/effects/CutcutTransition.js';
 
 
 
