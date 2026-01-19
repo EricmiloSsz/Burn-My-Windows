@@ -49,12 +49,9 @@ export default class Effect {
     return 'cutcut-transition.png';
   }
 
+  // This effect is only available on GNOME Shell 40+.
   static getMinShellVersion() {
-    return 40;
-  }
-
-  static getMaxShellVersion() {
-    return 47;
+    return [40, 0];
   }
 
   static getPreferencesPage() {
